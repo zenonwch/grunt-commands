@@ -25,7 +25,7 @@
     "test": "grunt test"
   },
   "dependencies": {
-    "async": "*",
+    "async": "*"
   },
   "devDependencies": {
     "grunt-contrib-jshint": "~1.0.0",
